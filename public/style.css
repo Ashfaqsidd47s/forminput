@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+    --text-color-1: #0D0D0D;
+    --text-color-2: #404040;
+    --text-color-3: #ffffff;
+    --text-color-4: #ced4da;
+    --text-color-5: #545a6d;
+    --background-color-1: rgb(198, 20, 250);
+    --background-color-2: #f5dafc;
+    --background-color-3: #b00fe0;
+    --background-color-4: #ecb5fd;
+    --border-color-1: #BFBFBF;
+    --background-color-green: rgb(115, 218, 115);
+    --background-color-red: rgb(255, 35, 35);
+    --user-background-color-1: #1D0259;
+    --user-background-color-2: #694AD9;
+    --user-background-color-3: #AC99F2;
+    --user-background-color-4: #F2F6FE;
+    --user-background-color-5: #F1ECFF;
+    --user-background-color-6: #371b95;
+    --user-background-color-7: #d0c3f9;
+    --user-text-color-2: #FFFFFF;
+    --user-text-color-3: #797881;
+}

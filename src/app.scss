@@ -1,0 +1,15 @@
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    form{
+        padding: 15px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        background-color: var(--background-color-4);
+    }
+}
